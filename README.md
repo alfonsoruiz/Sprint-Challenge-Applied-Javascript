@@ -40,7 +40,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 3. What is an event listener?
 
-    Event Listeners allow us to detect specific events that take place in a progrmimng evniroment and preform a given set of actions once the event we are listening occurs.
+    Event Listeners allow us to detect specific events that take place in a progrmimng evniroment and preform a given set of actions once the event we are listening for occurs.
 
 4. Why would we convert a NodeList into an Array?
 
